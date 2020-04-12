@@ -79,5 +79,3 @@ Number of Attributes: 61 (58 explanatory attributes, 2 non-explanatory, 1 goal f
 58. abs_title_subjectivity: Absolute subjectivity level
 59. abs_title_sentiment_polarity: Absolute polarity level
 60. shares: Number of shares (target response)
-
-For more details concerning the variables see file OnlineNewsPopularity.names.txt
