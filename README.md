@@ -1,4 +1,4 @@
-# OnlineNewsPopularity
+# Online-News-Popularity
 
    The data of this assignment refer to characteristics of the popular website of Mashable (www.mashable.com). Hence, this dataset does not share the original content but some statistics associated with it. The original content be publicly accessed and retrieved using the provided urls. All sites and related data were downloaded on January 8, 2015. The estimated relative performance values were estimated by the authors using a Random Forest classifier and a rolling windows as assessment method - see Fernandes et al. (2015) for more details on how the relative performance values were set. 
 
