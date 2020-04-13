@@ -15,7 +15,7 @@
 9. Describe the typical profile of a post and the characteristics of a viral post.
 10. Write a report summarizing your results.
 
-Attribute Information:
+# Attribute Information:
 Number of Attributes: 61 (58 explanatory attributes, 2 non-explanatory, 1 goal field response)
 
 0. url: URL of the article (non-explanatory )
